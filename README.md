@@ -79,10 +79,7 @@ Workflow summary:
 
 [Metashape 3D Model Snap Video](Demos/metashape_3D_model_video_snap.mp4)
 
-<video src="Demos/metashape_3D_model_video_snap.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
-
+![metashape](https://github.com/user-attachments/assets/2ce2e0c0-1434-4367-ad2a-ad9a9ef18747)
 
 
 ---
@@ -127,9 +124,8 @@ Open the web viewer URL printed at the end of training to inspect and export poi
 
 **Demo:** [NeRF Rendered Video](Demos/NeRF_renderedVideo_snap.mp4)
 
-<video src="Demos/NeRF_renderedVideo_snap.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
+![NeRF](https://github.com/user-attachments/assets/8c527240-997e-411a-b84c-5c23b309d43b)
+
 
 ---
 
@@ -164,9 +160,7 @@ python train.py -s {PROCESSED_DATA_DIR}
 
 [Gaussian Splatting Unity Output](Demos/GaussianSplatting_UnityOutput_snap.mp4)
 
-<video src="Demos/GaussianSplatting_UnityOutput_snap.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
+![GaussianSplatting](https://github.com/user-attachments/assets/95ce8660-3f10-4f05-85c9-b3f8149279ec)
 
 ---
 
