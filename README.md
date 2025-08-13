@@ -160,7 +160,9 @@ python train.py -s {PROCESSED_DATA_DIR}
 
 [Gaussian Splatting Unity Output](Demos/GaussianSplatting_UnityOutput_snap.mp4)
 
-![GaussianSplatting](https://github.com/user-attachments/assets/95ce8660-3f10-4f05-85c9-b3f8149279ec)
+
+![GaussianSplatting_UnityOutput_snap-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/28b52348-272d-4fe2-8968-b3e3d4d33c2d)
+
 
 ---
 
