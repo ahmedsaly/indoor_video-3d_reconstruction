@@ -77,7 +77,7 @@ Workflow summary:
 
 <img src="Demos/metashape_snap.png" alt="Metashape Screenshot" width="640">
 
-[Metashape 3D Model Snap Video](Demos/metashape_3D_model_snap_video.mp4)
+[Metashape 3D Model Snap Video](Demos/metashape_3D_model_video_snap.mp4)
 
 <video src="Demos/metashape_3D_model_video_snap.mp4" controls width="640">
   Your browser does not support the video tag.
