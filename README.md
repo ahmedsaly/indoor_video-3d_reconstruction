@@ -125,7 +125,7 @@ ns-train nerfacto --data {PROCESSED_DATA_DIR}
 
 Open the web viewer URL printed at the end of training to inspect and export point clouds/meshes or render fly‑throughs.
 
-**Demo:** [NeRF Rendered Video](Demos/NeRF_renderedVideo.mp4)
+**Demo:** [NeRF Rendered Video](Demos/NeRF_renderedVideo_snap.mp4)
 
 <video src="Demos/NeRF_renderedVideo_snap.mp4" controls width="640">
   Your browser does not support the video tag.
@@ -158,11 +158,11 @@ python train.py -s {PROCESSED_DATA_DIR}
 
 **Demo:**
 
-[Point Cloud output](Demos/guassianSplatting_snap_pointCloud.png)
+[Point Cloud output](Demos/guassianSplatting_pointCloud_snap.png)
 
 <img src="Demos/guassianSplatting_pointCloud_snap.png" alt="PointCloud Screenshot" width="640">
 
-[Gaussian Splatting Unity Output](Demos/GaussianSplatting_UnityOutput.mp4)
+[Gaussian Splatting Unity Output](Demos/GaussianSplatting_UnityOutput_snap.mp4)
 
 <video src="Demos/GaussianSplatting_UnityOutput_snap.mp4" controls width="640">
   Your browser does not support the video tag.
